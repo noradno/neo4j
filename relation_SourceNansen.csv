@@ -1,282 +1,52 @@
-relation_id,source_node_id,target_node_id,relation_type,communication_type,fraction,level_difference
-1,2,1,FOUNDER,"(↑) Counterparty founder",1,1
-2,1,3,FOUNDER,"(↓) The counterparty is the founder",1,1
-3,1,4,FOUNDER,"(↓) The counterparty is the founder",0.25,1
-4,1,5,FOUNDER,"(↓) The counterparty is the founder",1,1
-5,1,6,FOUNDER,"(↓) The counterparty is the founder",0.25,1
-6,1,7,FOUNDER,"(↓) The counterparty is the founder",1,1
-7,1,8,FOUNDER,"(↓) The counterparty is the founder",1,1
-8,1,9,FOUNDER,"(↓) The counterparty is the founder",0.5,1
-9,1,10,FOUNDER,"(↓) The counterparty is the founder",1,1
-10,1,11,FOUNDER,"(↓) The counterparty is the founder",1,1
-11,1,12,FOUNDER,"(↓) The counterparty is the founder",1,1
-12,1,13,FOUNDER,"(↓) The counterparty is the founder",1,1
-13,1,14,FOUNDER,"(↓) The counterparty is the founder",1,1
-14,1,15,FOUNDER,"(↓) The counterparty is the founder",1,1
-15,1,16,FOUNDER,"(↓) The counterparty is the founder",1,1
-16,1,17,FOUNDER,"(↓) The counterparty is the founder",1,1
-17,1,18,FOUNDER,"(↓) The counterparty is the founder",1,1
-18,19,3,GROUP_MEMBER,"(↑) Counterparty is related to the group",,1
-19,20,3,FOUNDER,"(↑) Counterparty founder",0.43,1
-20,21,3,FOUNDER,"(↑) Counterparty founder",0.001,1
-21,22,3,FOUNDER,"(↑) Counterparty founder",0.000316,1
-22,23,3,FOUNDER,"(↑) Counterparty founder",0.000316,1
-23,24,3,FOUNDER,"(↑) Counterparty founder",0.000316,1
-24,25,3,FOUNDER,"(↑) Counterparty founder",0.000316,1
-25,26,3,FOUNDER,"(↑) Counterparty founder",0.000316,1
-26,27,3,FOUNDER,"(↑) Counterparty founder",0.000316,1
-27,28,3,FOUNDER,"(↑) Counterparty founder",0.03,1
-28,29,3,FOUNDER,"(↑) Counterparty founder",0.03,1
-29,30,3,BENEFICIARY,"(↑) Beneficiary of the counterparty",,1
-30,31,3,FOUNDER,"(↑) Counterparty founder",0.001,1
-31,32,3,FOUNDER,"(↑) Counterparty founder",0.009,1
-32,33,3,FOUNDER,"(↑) Counterparty founder",0.500058,1
-33,34,3,FOUNDER,"(↑) Counterparty founder",0.000058,1
-34,35,3,FOUNDER,"(↑) Counterparty founder",0.010058,1
-35,36,4,GROUP_MEMBER,"(↑) Counterparty is related to the group",,1
-36,37,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-37,38,4,FOUNDER,"(↑) Counterparty founder",0.0012,1
-38,39,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-39,40,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-40,41,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-41,42,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-42,43,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-43,44,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-44,45,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-45,46,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-46,47,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-47,48,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-48,49,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-49,50,4,FOUNDER,"(↑) Counterparty founder",0.0034,1
-50,51,4,FOUNDER,"(↑) Counterparty founder",0.9375,1
-51,52,4,FOUNDER,"(↑) Counterparty founder",0.0005,1
-52,53,5,GROUP_MEMBER,"(↑) Counterparty is related to the group",,1
-53,54,5,FOUNDER,"(↑) Counterparty founder",0.01,1
-54,55,5,FOUNDER,"(↑) Counterparty founder",0.01,1
-55,56,5,FOUNDER,"(↑) Counterparty founder",0.0089,1
-56,57,5,FOUNDER,"(↑) Counterparty founder",0.01,1
-57,58,5,FOUNDER,"(↑) Counterparty founder",0.01,1
-58,59,5,FOUNDER,"(↑) Counterparty founder",0.01,1
-59,60,5,FOUNDER,"(↑) Counterparty founder",0.01,1
-60,61,5,FOUNDER,"(↑) Counterparty founder",0.9311,1
-61,62,5,FOUNDER,"(↑) Counterparty founder",0.01,1
-62,63,6,BENEFICIARY,"(↑) Beneficiary of the counterparty",,1
-63,64,6,FOUNDER,"(↑) Counterparty founder",0.5,1
-64,65,6,FOUNDER,"(↑) Counterparty founder",0.24,1
-65,66,6,FOUNDER,"(↑) Counterparty founder",0.2,1
-66,67,6,FOUNDER,"(↑) Counterparty founder",0.0045,1
-67,68,6,FOUNDER,"(↑) Counterparty founder",0.0045,1
-68,69,6,FOUNDER,"(↑) Counterparty founder",0.0045,1
-69,70,6,FOUNDER,"(↑) Counterparty founder",0.0045,1
-70,71,6,FOUNDER,"(↑) Counterparty founder",0.0045,1
-71,72,6,FOUNDER,"(↑) Counterparty founder",0.0045,1
-72,73,6,FOUNDER,"(↑) Counterparty founder",0.009,1
-73,74,6,FOUNDER,"(↑) Counterparty founder",0.0045,1
-74,75,7,GROUP_MEMBER,"(↑) Counterparty is part of the group",,1
-75,76,7,FOUNDER,"(↑) Counterparty founder",0.00157,1
-76,77,7,FOUNDER,"(↑) Counterparty founder",0.00157,1
-77,78,7,FOUNDER,"(↑) Counterparty founder",0.00157,1
-78,79,7,FOUNDER,"(↑) Counterparty founder",0.00157,1
-79,80,7,FOUNDER,"(↑) Counterparty founder",0.00157,1
-80,81,7,FOUNDER,"(↑) Counterparty founder",0.00157,1
-81,82,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-82,83,7,FOUNDER,"(↑) Counterparty founder",0.00157,1
-83,84,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-84,85,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-85,86,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-86,87,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-87,88,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-88,89,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-89,90,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-90,91,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-91,92,7,FOUNDER,"(↑) Counterparty founder",0.00057,1
-92,93,7,FOUNDER,"(↑) Counterparty founder",0.0001,1
-93,94,7,BENEFICIARY,"(↑) Beneficiary of the counterparty",,1
-94,95,7,GROUP_MEMBER,"(↑) Counterparty is part of the group",,1
-95,96,7,FOUNDER,"(↑) Counterparty founder",0.0003,1
-96,97,7,FOUNDER,"(↑) Counterparty founder",0.0003,1
-97,98,7,FOUNDER,"(↑) Counterparty founder",0.0003,1
-98,99,7,FOUNDER,"(↑) Counterparty founder",0.9679,1
-99,100,7,FOUNDER,"(↑) Counterparty founder",0.0001,1
-100,101,7,FOUNDER,"(↑) Counterparty founder",0.0001,1
-101,102,7,FOUNDER,"(↑) Counterparty founder",0.0001,1
-102,103,7,FOUNDER,"(↑) Counterparty founder",0.0001,1
-103,104,7,FOUNDER,"(↑) Counterparty founder",0.0001,1
-104,105,7,FOUNDER,"(↑) Counterparty founder",0.0002,1
-105,106,7,FOUNDER,"(↑) Counterparty founder",0.0003,1
-106,107,7,FOUNDER,"(↑) Counterparty founder",0.01566,1
-107,108,8,BENEFICIARY,"(↑) Beneficiary of the counterparty",,1
-108,109,8,FOUNDER,"(↑) Counterparty founder",0.5,1
-109,110,8,FOUNDER,"(↑) Counterparty founder",0.5,1
-110,111,8,FOUNDER,"(↑) Counterparty founder",0.0001,1
-111,112,8,BENEFICIARY,"(↑) Beneficiary of the counterparty",,1
-112,113,8,BENEFICIARY,"(↑) Beneficiary of the counterparty",,1
-113,114,8,FOUNDER,"(↑) Counterparty founder",0.99999,1
-114,115,8,FOUNDER,"(↑) Counterparty founder",0.00001,1
-115,116,8,FOUNDER,"(↑) Counterparty founder",0.00001,1
-116,117,8,FOUNDER,"(↑) Counterparty founder",0.00001,1
-117,118,8,FOUNDER,"(↑) Counterparty founder",0.00001,1
-118,119,8,FOUNDER,"(↑) Counterparty founder",0.00001,1
-119,120,8,FOUNDER,"(↑) Counterparty founder",0.00001,1
-120,9,121,FOUNDER,"(↓) The counterparty is the founder",1,1
-121,9,122,FOUNDER,"(↓) The counterparty is the founder",1,1
-122,9,123,FOUNDER,"(↓) The counterparty is the founder",1,1
-123,9,124,FOUNDER,"(↓) The counterparty is the founder",1,1
-124,9,125,FOUNDER,"(↓) The counterparty is the founder",1,1
-125,9,126,FOUNDER,"(↓) The counterparty is the founder",1,1
-126,9,127,FOUNDER,"(↓) The counterparty is the founder",1,1
-127,9,128,FOUNDER,"(↓) The counterparty is the founder",1,1
-128,9,129,FOUNDER,"(↓) The counterparty is the founder",1,1
-129,9,130,FOUNDER,"(↓) The counterparty is the founder",1,1
-130,9,131,FOUNDER,"(↓) The counterparty is the founder",1,1
-131,9,132,FOUNDER,"(↓) The counterparty is the founder",1,1
-132,9,133,FOUNDER,"(↓) The counterparty is the founder",1,1
-133,9,134,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-134,9,135,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-135,9,136,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-136,9,137,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-137,9,138,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-138,9,139,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-139,9,140,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-140,9,141,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-141,9,142,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-142,9,143,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-143,9,144,FOUNDER,"(↓) The counterparty is the founder",0.0002,1
-144,112,9,BENEFICIARY,"(↓) The counterparty is the beneficiary",,1
-145,113,9,BENEFICIARY,"(↓) The counterparty is the beneficiary",,1
-146,10,145,AFFILIATED,"(↓) Relates to a group",0.9999,1
-147,10,146,AFFILIATED,"(↓) Relates to a group",0.9999,1
-148,10,147,AFFILIATED,"(↓) Relates to a group",0.9999,1
-149,10,148,AFFILIATED,"(↓) Relates to a group",0.0001,1
-150,10,149,AFFILIATED,"(↓) Relates to a group",0.0001,1
-151,3,19,GROUP_MEMBER,"(↓) Relates to a group",,1
-152,3,20,FOUNDER,"(↓) The counterparty is the founder",0.43,1
-153,3,21,FOUNDER,"(↓) The counterparty is the founder",0.001,1
-154,3,22,FOUNDER,"(↓) The counterparty is the founder",0.000316,1
-155,3,23,FOUNDER,"(↓) The counterparty is the founder",0.000316,1
-156,3,24,FOUNDER,"(↓) The counterparty is the founder",0.000316,1
-157,3,25,FOUNDER,"(↓) The counterparty is the founder",0.000316,1
-158,3,26,FOUNDER,"(↓) The counterparty is the founder",0.000316,1
-159,3,27,FOUNDER,"(↓) The counterparty is the founder",0.000316,1
-160,3,28,FOUNDER,"(↓) The counterparty is the founder",0.03,1
-161,3,29,FOUNDER,"(↓) The counterparty is the founder",0.03,1
-162,3,30,BENEFICIARY,"(↓) The counterparty is the beneficiary",,1
-163,3,31,FOUNDER,"(↓) The counterparty is the founder",0.001,1
-164,3,32,FOUNDER,"(↓) The counterparty is the founder",0.009,1
-165,3,33,FOUNDER,"(↓) The counterparty is the founder",0.500058,1
-166,3,34,FOUNDER,"(↓) The counterparty is the founder",0.000058,1
-167,3,35,FOUNDER,"(↓) The counterparty is the founder",0.010058,1
-168,4,36,GROUP_MEMBER,"(↓) Relates to a group",,1
-169,4,37,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-170,4,38,FOUNDER,"(↓) The counterparty is the founder",0.0012,1
-171,4,39,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-172,4,40,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-173,4,41,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-174,4,42,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-175,4,43,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-176,4,44,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-177,4,45,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-178,4,46,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-179,4,47,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-180,4,48,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-181,4,49,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-182,4,50,FOUNDER,"(↓) The counterparty is the founder",0.0034,1
-183,4,51,FOUNDER,"(↓) The counterparty is the founder",0.9375,1
-184,4,52,FOUNDER,"(↓) The counterparty is the founder",0.0005,1
-185,5,53,GROUP_MEMBER,"(↓) Relates to a group",,1
-186,5,54,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-187,5,55,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-188,5,56,FOUNDER,"(↓) The counterparty is the founder",0.0089,1
-189,5,57,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-190,5,58,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-191,5,59,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-192,5,60,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-193,5,61,FOUNDER,"(↓) The counterparty is the founder",0.9311,1
-194,5,62,FOUNDER,"(↓) The counterparty is the founder",0.01,1
-195,6,63,BENEFICIARY,"(↓) The counterparty is the beneficiary",,1
-196,6,64,FOUNDER,"(↓) The counterparty is the founder",0.5,1
-197,6,65,FOUNDER,"(↓) The counterparty is the founder",0.24,1
-198,6,66,FOUNDER,"(↓) The counterparty is the founder",0.2,1
-199,6,67,FOUNDER,"(↓) The counterparty is the founder",0.0045,1
-200,6,68,FOUNDER,"(↓) The counterparty is the founder",0.0045,1
-201,6,69,FOUNDER,"(↓) The counterparty is the founder",0.0045,1
-202,6,70,FOUNDER,"(↓) The counterparty is the founder",0.0045,1
-203,6,71,FOUNDER,"(↓) The counterparty is the founder",0.0045,1
-204,6,72,FOUNDER,"(↓) The counterparty is the founder",0.0045,1
-205,6,73,FOUNDER,"(↓) The counterparty is the founder",0.009,1
-206,6,74,FOUNDER,"(↓) The counterparty is the founder",0.0045,1
-207,7,75,GROUP_MEMBER,"(↓) Joins the group",,1
-208,7,76,FOUNDER,"(↓) The counterparty is the founder",0.00157,1
-209,7,77,FOUNDER,"(↓) The counterparty is the founder",0.00157,1
-210,7,78,FOUNDER,"(↓) The counterparty is the founder",0.00157,1
-211,7,79,FOUNDER,"(↓) The counterparty is the founder",0.00157,1
-212,7,80,FOUNDER,"(↓) The counterparty is the founder",0.00157,1
-213,7,81,FOUNDER,"(↓) The counterparty is the founder",0.00157,1
-214,7,82,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-215,7,83,FOUNDER,"(↓) The counterparty is the founder",0.00157,1
-216,7,84,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-217,7,85,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-218,7,86,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-219,7,87,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-220,7,88,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-221,7,89,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-222,7,90,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-223,7,91,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-224,7,92,FOUNDER,"(↓) The counterparty is the founder",0.00057,1
-225,7,93,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-226,7,94,BENEFICIARY,"(↓) The counterparty is the beneficiary",,1
-227,7,95,GROUP_MEMBER,"(↓) Joins the group",,1
-228,7,96,FOUNDER,"(↓) The counterparty is the founder",0.0003,1
-229,7,97,FOUNDER,"(↓) The counterparty is the founder",0.0003,1
-230,7,98,FOUNDER,"(↓) The counterparty is the founder",0.0003,1
-231,7,99,FOUNDER,"(↓) The counterparty is the founder",0.9679,1
-232,7,100,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-233,7,101,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-234,7,102,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-235,7,103,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-236,7,104,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-237,7,105,FOUNDER,"(↓) The counterparty is the founder",0.0002,1
-238,7,106,FOUNDER,"(↓) The counterparty is the founder",0.0003,1
-239,7,107,FOUNDER,"(↓) The counterparty is the founder",0.01566,1
-240,8,108,BENEFICIARY,"(↓) The counterparty is the beneficiary",,1
-241,8,109,FOUNDER,"(↓) The counterparty is the founder",0.5,1
-242,8,110,FOUNDER,"(↓) The counterparty is the founder",0.5,1
-243,8,111,FOUNDER,"(↓) The counterparty is the founder",0.0001,1
-244,8,112,BENEFICIARY,"(↓) The counterparty is the beneficiary",,1
-245,8,113,BENEFICIARY,"(↓) The counterparty is the beneficiary",,1
-246,8,114,FOUNDER,"(↓) The counterparty is the founder",0.99999,1
-247,8,115,FOUNDER,"(↓) The counterparty is the founder",0.00001,1
-248,8,116,FOUNDER,"(↓) The counterparty is the founder",0.00001,1
-249,8,117,FOUNDER,"(↓) The counterparty is the founder",0.00001,1
-250,8,118,FOUNDER,"(↓) The counterparty is the founder",0.00001,1
-251,8,119,FOUNDER,"(↓) The counterparty is the founder",0.00001,1
-252,8,120,FOUNDER,"(↓) The counterparty is the founder",0.00001,1
-253,121,9,FOUNDER,"(↑) Counterparty founder",1,1
-254,122,9,FOUNDER,"(↑) Counterparty founder",1,1
-255,123,9,FOUNDER,"(↑) Counterparty founder",1,1
-256,124,9,FOUNDER,"(↑) Counterparty founder",1,1
-257,125,9,FOUNDER,"(↑) Counterparty founder",1,1
-258,126,9,FOUNDER,"(↑) Counterparty founder",1,1
-259,127,9,FOUNDER,"(↑) Counterparty founder",1,1
-260,128,9,FOUNDER,"(↑) Counterparty founder",1,1
-261,129,9,FOUNDER,"(↑) Counterparty founder",1,1
-262,130,9,FOUNDER,"(↑) Counterparty founder",1,1
-263,131,9,FOUNDER,"(↑) Counterparty founder",1,1
-264,132,9,FOUNDER,"(↑) Counterparty founder",1,1
-265,133,9,FOUNDER,"(↑) Counterparty founder",1,1
-266,134,9,FOUNDER,"(↑) Counterparty founder",0.01,1
-267,135,9,FOUNDER,"(↑) Counterparty founder",0.01,1
-268,136,9,FOUNDER,"(↑) Counterparty founder",0.01,1
-269,137,9,FOUNDER,"(↑) Counterparty founder",0.0001,1
-270,138,9,FOUNDER,"(↑) Counterparty founder",0.0001,1
-271,139,9,FOUNDER,"(↑) Counterparty founder",0.0001,1
-272,140,9,FOUNDER,"(↑) Counterparty founder",0.0001,1
-273,141,9,FOUNDER,"(↑) Counterparty founder",0.0001,1
-274,142,9,FOUNDER,"(↑) Counterparty founder",0.0001,1
-275,143,9,FOUNDER,"(↑) Counterparty founder",0.0001,1
-276,144,9,FOUNDER,"(↑) Counterparty founder",0.0002,1
-277,145,10,GROUP_MEMBER,"(↑) Counterparty is related to the group",0.9999,1
-278,146,10,GROUP_MEMBER,"(↑) Counterparty is related to the group",0.9999,1
-279,147,10,GROUP_MEMBER,"(↑) Counterparty is related to the group",0.9999,1
-280,148,10,GROUP_MEMBER,"(↑) Counterparty is related to the group",0.0001,1
-281,149,10,GROUP_MEMBER,"(↑) Counterparty is related to the group",0.0001,1
+relation_id,source_node_id,source_name,source_edrpou,target_node_id,target_name,target_edrpou,relation_type,communication_type,fraction,level_difference
+1,2,"THE STATE OF UKRAINE (IN THE PERSON OF THE ENTITY MANAGING STATE-OWNED OBJECTS: (CABINET OF MINISTERS OF UKRAINE)",,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,FOUNDER,"(↑) Counterparty founder",1,1
+2,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↓) The counterparty is the founder",1,1
+3,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↓) The counterparty is the founder",0.25,1
+4,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,5,OJSC CHORNOMORNAFTOGAZ,21516736,FOUNDER,"(↓) The counterparty is the founder",1,1
+5,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,6,PJSC KRYMGEOLOGIYA,03351743,FOUNDER,"(↓) The counterparty is the founder",0.25,1
+6,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,7,PJSC UKRTRANSGAZ,20042841,FOUNDER,"(↓) The counterparty is the founder",1,1
+7,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,8,PJSC UKRGAZVIDOBUVANNYA,20219683,FOUNDER,"(↓) The counterparty is the founder",1,1
+8,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,9,"PJSC ""UKRNAFTA""",31388291,FOUNDER,"(↓) The counterparty is the founder",0.5,1
+9,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,10,"PJSC ""UKRTRANSNAFTA""",32790847,FOUNDER,"(↓) The counterparty is the founder",1,1
+10,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,11,"THE STATE SPECIALIZED ENTERPRISE ""CHORNOBYL SPECIALIZED COMPLEX""",32918996,FOUNDER,"(↓) The counterparty is the founder",1,1
+11,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,12,SE LIKURY,25485671,FOUNDER,"(↓) The counterparty is the founder",1,1
+12,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,13,"SE ""SCIENTIFIC AND TECHNICAL CENTER NAFTOGAZ OF UKRAINE""",36730370,FOUNDER,"(↓) The counterparty is the founder",1,1
+13,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,14,"SUBSIDIARY COMPANY ""LUKORINAFTOGAZ""",00179737,FOUNDER,"(↓) The counterparty is the founder",1,1
+14,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,15,"STATE ENTERPRISE ""HAZTECH""",00179754,FOUNDER,"(↓) The counterparty is the founder",1,1
+15,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,16,"PE ""BORYSLAV ""NAFTOGAZ""",22525951,FOUNDER,"(↓) The counterparty is the founder",1,1
+16,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,17,"PJSC ""DOLYNANAFTOGAZ""",00149726,FOUNDER,"(↓) The counterparty is the founder",1,1
+17,1,"JSC ""NAFTOGAZ UKRAINE""",20077720,18,"SUBSIDIARY COMPANY ""OHDGCH""",00149732,FOUNDER,"(↓) The counterparty is the founder",1,1
+18,19,"Financial and Industrial Group ""DF Group""",,3,SE ZAKORDONNAFTOGAZ,36858992,GROUP_MEMBER,"(↑) Counterparty is related to the group",,1
+19,20,"OSTHEM HOLDING LIMITED (OSTCHEM HOLDING LIMITED)",38056813,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.43,1
+20,21,"LLC ""DF AGRO""",37188406,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.001,1
+21,22,"LLC ""ROSE FERTILIZERS""",33162687,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.000316,1
+22,23,"PUBLIC JOINT STOCK COMPANY ""RIVNEAZOT""",00206539,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.000316,1
+23,24,"PJSC ""SEVERODONETSK ASSOCIATION AZOT""",05761614,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.000316,1
+24,25,"PJSC ""CONCERN STIROL""",05761620,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.000316,1
+25,26,"PJSC ""CRIMEAN TITANIUM""",00203826,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.000316,1
+26,27,"PJSC ""CRIMEAN SODA PLANT""",05766893,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.000316,1
+27,28,"LLC ""NF TRADING UKRAINE""",34524585,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.03,1
+28,29,"LLC ""NF TRADING SWITZERLAND AG (NF TRADING SWITZERLAND AG)""",40363052,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.03,1
+29,30,BRINKHAUS STANISLAV AUGUSTOVICH,,3,SE ZAKORDONNAFTOGAZ,36858992,BENEFICIARY,"(↑) Beneficiary of the counterparty",,1
+30,31,"LLC ""UKRAINIAN NATIONAL AIRLINE""",33947320,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.001,1
+31,32,"JV ""BORYSLAVSKA NAFTOVA KOMPANIYA"" LTD",21882697,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.009,1
+32,33,"OJSC ""NAFTOGAZOBUDUVANNYA""",00135213,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.500058,1
+33,34,"LLC ""NAFTOGAZ SERVICES""",30563636,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.000058,1
+34,35,"LLC ""LNG TERMINAL""",38368151,3,SE ZAKORDONNAFTOGAZ,36858992,FOUNDER,"(↑) Counterparty founder",0.010058,1
+35,36,"ROSHEN CONFECTIONERY CORPORATION (ROSHEN CONFECTIONERY CORPORATION)",,4,PJSC KRYMGAZ,03348117,GROUP_MEMBER,"(↑) Counterparty is related to the group",,1
+36,37,"PJSC ""VINNYTSIA CONFECTIONERY FACTORY""",00382220,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+37,38,"PJSC ""MARIUPOL CONFECTIONERY FACTORY ""ROSHEN""",00382080,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0012,1
+38,39,"PJSC ""CONFECTIONERY FACTORY"" KARL MARX """,00382075,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+39,40,"PJSC ""KYIV CONFECTIONERY FACTORY ""ROSHEN""",00382191,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+40,41,"PJSC ""KREMENCHUGKA CONFECTIONERY FACTORY ""ROSHEN""",00373296,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+41,42,"SUBSIDIARY ENTERPRISE OF THE CONFECTIONERY CORPORATION ""ROSHEN"" BONBONETTI """,25112243,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+42,43,"LLC ""CENTRAL DISTRIBUTION CENTER ""ROSHEN""",32790234,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+43,44,"LLC ""ROSHEN BOUTIQUE""",20083351,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+44,45,"BRANCH OF THE CONFECTIONERY CORPORATION ""ROSHEN"" YAHOTINSKY SUGAR PLANT """,00382057,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+45,46,"BRANCH OF THE CONFECTIONERY CORPORATION ""ROSHEN"" LITINSKY DAIRY CANNING PLANT """,00374160,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+46,47,"LLC ""ROSHEN EUROPE""",23050966,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+47,48,"LCC ""LOGISTICS CENTER""",25112831,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+48,49,"LLC ""COMPANY WITH INVESTMENTS AND MANAGEMENT""",34703116,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+49,50,"LLC ""BERSHADMOLOKO""",38282866,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0034,1
+50,51,"Avista LLC (AVISTA LLC)",,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.9375,1
+51,52,"Grayham Holdings S.A. Grayham Holdings S.A. (GRAYHAM HOLDINGS SA GRAYHAM HOLDINGS SA)",,4,PJSC KRYMGAZ,03348117,FOUNDER,"(↑) Counterparty founder",0.0005,1
